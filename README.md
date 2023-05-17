@@ -11,6 +11,6 @@
  ### To-Do List
 
 - [ ] Implementare database MySQL per la gestione degli utenti, dati ecc?
-- [ ] Aggiungere pagina che rimandi alla scelta di un articolo da fact-checkare o una fonte da fact-checkare
+- [ ] Aggiungere pagina che rimandi alla scelta di un articolo da fact-checkare o una fonte da fact-checkare, per il momento rimanda a index.php
 - [ ] Implementare creazione utente
 - [ ] XXX
