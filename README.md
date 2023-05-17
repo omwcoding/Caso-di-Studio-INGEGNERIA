@@ -6,8 +6,7 @@
  Per far partire il server spostarsi in TestYii>basic, aprire il terminale in questa cartella e dare il comando "php yii serve"
 
  Dati per il login: 
- admin:admin
- demo:demo
+ "admin:admin" oppure "demo:demo"
 
  ### To-Do List
 
