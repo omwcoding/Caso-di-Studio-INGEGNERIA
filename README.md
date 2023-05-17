@@ -14,4 +14,4 @@
 - [ ] Implementare database MySQL per la gestione degli utenti, dati ecc?
 - [ ] Aggiungere pagina che rimandi alla scelta di un articolo da fact-checkare o una fonte da fact-checkare
 - [ ] Implementare creazione utente
-- [ ] 
+- [ ] XXX
