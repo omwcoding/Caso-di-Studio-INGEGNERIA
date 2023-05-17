@@ -5,8 +5,8 @@
 
  ISTRUZIONI:
 
- 1. Installare XAMPP (file su Discord)
- 2. Installare Composer (file su Discord) RICORDANDOSI DI SPUNTARE LA CASELLA PER AGGIUNGERE PHP A PATH
+ 1. Installare [XAMPP](https://www.apachefriends.org/it/index.html) (versione 8.2.4)
+ 2. Installare [Composer](https://getcomposer.org/Composer-Setup.exe) RICORDANDOSI DI SPUNTARE LA CASELLA PER AGGIUNGERE PHP A PATH
  3. Per far partire il server spostarsi in TestYii>basic, aprire il terminale in questa cartella e dare il comando "php yii serve"
 
  Dati per il login: 
